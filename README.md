@@ -29,6 +29,13 @@ I started by drawing a simple user journey map in <strong>Figma</strong> so I kn
 
 If you dont want to test out the client you can see a short video walkthrough of it here.
 
+
+
+https://user-images.githubusercontent.com/89194851/151892378-94ce1900-1ba6-4a26-95b1-c467f40f58e1.mp4
+
+
+
+
 # Install the server and the client
 
 ### 1) Start by cloning the project to your local machine
