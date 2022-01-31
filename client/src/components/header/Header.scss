@@ -1,0 +1,15 @@
+.header {
+	background-color: #ffbebe;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+
+	padding: 10px 20px;
+
+	a {
+		font-size: 18px;
+		font-weight: 600;
+		color: black;
+	}
+}

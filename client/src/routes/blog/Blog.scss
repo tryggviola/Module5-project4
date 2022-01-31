@@ -1,0 +1,46 @@
+.blogContent {
+	display: flex;
+	flex-direction: column;
+	padding: 40px 80px;
+
+	&__header {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+
+		h1 {
+			margin: 0;
+		}
+	}
+
+	&__author {
+		color: #2f981e;
+		// color: #f17a7e;
+	}
+
+	&__info {
+		display: flex;
+		align-items: center;
+		column-gap: 10px;
+
+		h3 {
+			margin: 0;
+			font-weight: 600;
+		}
+	}
+
+	&__content {
+		border-top: 2px solid #e4e4e4;
+	}
+
+	button {
+		height: 24px;
+		width: 80px;
+
+		font-weight: 800;
+		color: white;
+		border: none;
+
+		background: #f9a66c;
+	}
+}
